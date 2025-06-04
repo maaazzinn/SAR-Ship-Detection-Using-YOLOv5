@@ -1,0 +1,7 @@
+train_images: "C:/Users/mazin/Downloads/ship detection/datasets/SSDD_coco/images"
+train_labels: "C:/Users/mazin/Downloads/ship detection/datasets/SSDD_coco/labels"
+img_size: 640
+batch_size: 16
+nc: 2  # number of classes, e.g. 2 if ship vs no ship
+lr: 0.001
+epochs: 50

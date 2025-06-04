@@ -1,0 +1,5 @@
+train: C:\Users\mazin\Downloads\ship detection\SAR_Ship_YOLO\images\train
+val: C:\Users\mazin\Downloads\ship detection\SAR_Ship_YOLO\images\train  # using same for val if no split
+
+nc: 1
+names: ['ship']
